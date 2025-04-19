@@ -1,2 +1,2 @@
 # wetherapp
-python project 
+python project to check wether
